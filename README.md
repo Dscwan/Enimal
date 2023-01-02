@@ -4,7 +4,7 @@
 
 ### :arrow_right: [노션](https://selective-spectrum-c0a.notion.site/Enimal-09dba286b744472f8854dcf122d9e313)
 
-### 📃[프로젝트 산출물](https://lab.ssafy.com/s07-blockchain-nft-sub2/S07P22C106/-/tree/master/exec)
+### 📃[프로젝트 산출물](/exec)
 # 🍯 팀원 소개
 
 |Back-End|Back-End|Front-End|Front-End|NFT|NFT|
