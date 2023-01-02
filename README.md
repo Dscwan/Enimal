@@ -33,7 +33,7 @@
 
 # 🐇 기술스택
 
-![기술_스택](/uploads/1cc364edc8b752cb7969fbfa8289d710/기술_스택.jpg)
+![기술_스택](/outputs/README.assets/기술_스택.jpg)
 
 ### 프론트
     - React.js : 18.2.0
@@ -88,63 +88,63 @@ AI 이미지 생성 => url을 통해 이미지 다운로드 => 이미지와 메�
 ```
 
 # 🐑 프로젝트 화면
-![사용설명서](/uploads/58278b8b3e9c1f7c3d712396d380bb8c/사용설명서.png)
+![사용설명서](/outputs/README.assets/사용설명서.png)
 
 ### ** 메인페이지-배너 **
-![배너](/uploads/a541b5562f32508ee1a754ba1cb35a5b/image.png)
+![배너](/outputs/README.assets/메인페이지.png)
 
 서비스에 대한 간단한 소개 페이지를 갈 수 있는 배너
 
 ### ** 메인페이지-오늘의동물 **
-![오늘의동물](/uploads/eaaa800e5775c73845c40b881e703baf/image.png)
+![오늘의동물](/outputs/README.assets/오늘의_동물.png)
 
 매일 랜덤으로 24종의 멸종위기 동물에 관한 내용을 보여주고, 영상 시청할 수 있도록 유도
 
 ### ** 상단바-환전 **
-![환전](/uploads/609ecbb9f785e72847c2482ff3b228f6/image.png)
+![환전](/outputs/README.assets/재화_전환.png)
 
 싸피네트워크를 통해 SSF 코인 재화를 서비스 내 재화로 변환, 기부 할 비율을 선택 후 충전
 
 ### ** 전체 뽑기 **
 
-![전체뽑기](/uploads/0f79b0031fc20f0a48d0739269ed2bcc/전체뽑기.JPG)
+![전체뽑기](/outputs/README.assets/전체뽑기.JPG)
 
 사용자가 보유중인 업적과 멸종위기 등급을 통해 확률 산정 후 뽑기
 업적 보유시 미보유 조각의 뽑기 확률을 증가
 
 ### ** 개별 뽑기 **
 
-![선택뽑기](/uploads/ebed303e8e8cd555065d076f9fd7fb6d/선택뽑기.JPG)
+![선택뽑기](/outputs/README.assets/선택뽑기.JPG)
 
 사용자가 보유중인 업적과 멸종위기 등급을 통해 가격 산정 후 뽑기
 
 ### ** 뽑기 화면 **
 
-![뽑기 화면](/uploads/60ad8972db1bf757ddafae14d1cdf01b/image.png)
+![뽑기 화면](/outputs/README.assets/뽑기.png)
 
 ### **마이페이지**
 
-![기본정보](/uploads/92204f09f3949061d96ec6c69e88eb76/image.png)
+![기본정보](/outputs/README.assets/마이페이지.png)
 
 현재 나의 랭킹, 업적별 획득 현황 등 사용자 기본정보
 
 ### **자유게시판**
 
-![자유게시판](/uploads/c73bbbb304d02a5e94657a69366beed7/자유게시판.JPG)
+![자유게시판](/outputs/README.assets/자유게시판.JPG)
 
 발급된 NFT들을 자랑하는 게시판
 
 ### NFT 발급 ( Dream api 사용 )
 
-![이미지 설정](/uploads/58950cac278242060a596673d0480b15/1.png)
-![이미지 발급](/uploads/b75a38609a0ea035b261e0944b8c3ebe/2.png)
+![이미지 설정](/outputs/README.assets/NFT_발급.png)
+![이미지 발급](/outputs/README.assets/보유중.png)
 
 조각을 다 모은 동물을 선택해 이름과 테마 설정,
 Dream API에서 해당 테마에 맞는 랜덤한 이미지로 생성,
 해당 사용자의 계정에 mint시켜 NFT 발급
 
 # 🎬 UCC
-![유우씨씨주소넣을거예요](https://www.notion.so/c6050e575e3243b3b65d8b53f45be3ab#b1e42f85783f4553923618d65f7bb623)
+![유우씨씨주소넣을거예요](https://www.notion.so/UCC-2db4ce58fdde400db57857baebba2bb4)
 
 
 
