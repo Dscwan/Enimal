@@ -58,7 +58,6 @@
 ### 협업툴
     - Notion / Gitlab / Figma / Jira
 
-
 ## 🐑 프로젝트 핵심 기능
 
 ---
